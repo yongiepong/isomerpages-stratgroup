@@ -145,7 +145,8 @@ So, neither of these extreme scenarios leads to desirable outcomes. And we donâ€
 
 We are proposing a significant change of gears in our development trajectory. For the rest of this decade, we plan for total workforce growth to be 1% to 2% per year, half of the 3.3% per year over the past 30 years. Beyond 2020, workforce growth is expected to slow further to about 1% per year.
 
-![Slide6](/images/Speeches/slide6-2.png)
+![Slide6](/images/Speeches/slide6.png)
+
 Sustaining high productivity growth will also become harder, as our economy matures and ages. If we are able to achieve our ambitious stretch target of 2-3% productivity growth per year in this decade, and maintain overall workforce growth at 1% to 2%, we can expect GDP growth to average 3% to 4% up to 2020, though in good years, we may exceed that.
 
 From 2020 to 2030, with workforce growth further slowing to about 1% per year, and productivity growth moderating to 1% to 2% per year, we may see GDP growth of between 2% and 3% per year from 2020 to 2030, depending on both internal and external circumstances.
