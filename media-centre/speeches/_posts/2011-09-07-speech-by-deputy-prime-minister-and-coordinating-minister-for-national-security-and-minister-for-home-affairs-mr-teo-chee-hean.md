@@ -49,7 +49,7 @@ Yet other groups showed entrepreneurship and innovation. A team of NTU students 
 
 Climate change is a global issue which affects us all. Addressing it requires a national approach -- one where everyone can play a part. We will need innovative ideas to modify the way we live, work and play, in order to reduce our energy emissions. Indeed, what matters most are the actions and contributions of every individual and business, because each of us can make a difference to our future and our future generations. Your views are important and we look forward to hearing from you in the coming months on addressing climate change.
 
-Thank you
+Thank you.
 
 <sub><sup>1</sup> Although a legally-binding global agreement has yet to be reached, Singapore has pledged to implement measures by 7-11 % below the 2020 Business-As-Usual (BAU) levels. The target of 16% below 2020 BAU levels is contingent on a legally-binding global agreement in which all countries implement their commitments in good faith.<sub>
 
