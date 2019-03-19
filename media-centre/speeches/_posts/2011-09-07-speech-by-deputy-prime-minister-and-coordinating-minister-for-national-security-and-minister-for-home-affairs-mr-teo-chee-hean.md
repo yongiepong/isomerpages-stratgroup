@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Speech by Mr Teo Chee Hean, Deputy Prime Minister and Coordinating Minister for National Security and Minister for Home Affairs, at the launch of the National Climate Change Strategy 2012 (NCCS-2012) Public Consultation and prize presentation for the Nati"
+title:  "Speech by DPM Teo Chee Hean at the launch of the National Climate Change Strategy 2012 (NCCS-2012) Public Consultation"
 date:   2011-09-07
 permalink: "/media-centre/speeches/speech-by-deputy-prime-minister-and-coordinating-minister-for-national-security-and-minister-for-home-affairs-mr-teo-chee-hean"
 ---
@@ -53,4 +53,3 @@ Thank you
 
 <sub><sup>1</sup> Although a legally-binding global agreement has yet to be reached, Singapore has pledged to implement measures by 7-11 % below the 2020 Business-As-Usual (BAU) levels. The target of 16% below 2020 BAU levels is contingent on a legally-binding global agreement in which all countries implement their commitments in good faith.<sub>
 
-[Download as PDF](https://github.com/isomerpages/isomerpages-stratgroup/raw/master/images/Speeches/speech-by-deputy-prime-minister-and-coordinating-minister-for-national-security-and-minister-for-home-affairs-mr-teo-chee-hean.pdf)
